@@ -1,0 +1,113 @@
+.top{
+    background-color: #9FD8DF;
+    height: 680px;
+    position: relative;
+}
+h1{
+    width:20%;
+    margin: 0 auto 0 auto;
+    font-family: 'Cookie', cursive;
+    font-size: 70px;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+}
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+h1{
+    margin-top: 0;
+
+}
+header{
+    position: absolute;
+    top: 30px;
+}
+.underline{
+    text-decoration: underline;
+}
+.text{
+    font-size: 30px;
+    font-family: 'Cinzel', serif;
+}
+.quality{
+    position: absolute;
+    right: 50px;
+}
+   
+.topcloud{
+    width: 15%;
+    position:relative;
+    left: 250px;
+    top:50px;
+}
+.stress{
+    width: 30%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+}
+
+.bottomcloud{
+    width: 20%;
+    position:absolute;
+    top: 150px;
+    left: 250px;
+
+}
+.mountain{
+    position:absolute;
+    z-index: 2;
+    bottom: 0;
+    left: 130px;
+}
+.profile{
+    background-color:#F5C0C0 ;
+    position: relative;
+    top:30px;
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+.introduction{
+    font-size: 30px;
+    width: 550px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    right: 70px;
+    bottom: 30px;
+    margin-bottom: 0px;
+}
+.hello{
+    font-size: 40px;
+    margin-top: 30px;
+    
+}
+.lol{
+    height: 200px;
+    width: 200px;
+}
+.texter{
+    font-size: 30px;
+    
+}
+
+.news{
+    height: 300px;
+    width: 1300px;
+} 
+.floattrial{
+    margin-top: 50px;
+    width: 80%;
+    margin:0 auto 0 auto;
+    height: 200%;
+}
+.footer-link:hover{
+    color: darkgreen;
+}
+.ending{
+    font-size: 1rem;
+
+}
